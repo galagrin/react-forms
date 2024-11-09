@@ -1,0 +1,23 @@
+section {
+    width: 100%;
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+img {
+    display: block;
+    margin: 10px;
+    width: 300px;
+    height: auto;
+    cursor: pointer;
+}
+
+h2 {
+    margin: 16px 0;
+    font-size: 28px;
+    color: #000000;
+    text-align: center;
+}

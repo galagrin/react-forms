@@ -1,0 +1,32 @@
+.input-container {
+    position: relative;
+    margin-bottom: 26px;
+    width: 100%;
+}
+
+.input-container label {
+    display: block;
+    padding: 0 0 6px 6px;
+    font-size: 16px;
+    color: #000000;
+}
+
+.input-container input {
+    width: 100%;
+    padding: 12px;
+    border: 1px solid #2a5755;
+    border-radius: 20px;
+    font-size: 18px;
+    color: #1a1a1a;
+}
+
+.input-container span {
+    display: block;
+    position: absolute;
+    top: 100%;
+    left: 0;
+    width: 100%;
+    padding-left: 6px;
+    font-size: 16px;
+    color: #990303;
+}
